@@ -127,6 +127,10 @@ input, select, textarea {
 		color: #3e3e3e;
 	}
 
+	strong {
+		font-family: 'Dancing Script', cursive;
+	}
+
 	i, em {
 		font-style: italic;
 	}
